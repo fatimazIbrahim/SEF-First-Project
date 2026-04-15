@@ -15,7 +15,7 @@ body {
 
 .right ul li::before{background-color: white ;}
 
-.bg
+.bg,
 .dot:hover,
 .blog-drop li::before{
     background-color: #65493b !important;
@@ -296,8 +296,11 @@ body {
 }
 
 .featured-card {
+    border-radius: none ;
     background-position: center;
     background-size: cover;
+    width: 30%;
+    float: left;
     height: 200px;
     margin-bottom: 30px;
     line-height: 40px;
