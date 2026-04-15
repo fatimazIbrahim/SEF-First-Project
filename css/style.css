@@ -386,7 +386,9 @@ body {
     overflow: hidden;
     height: 220px;
 }
-
+.offer-inline-icon h3{
+    margin-bottom: 20px;
+}
 .offer-icons {
     float: left;
     height: 100%;
